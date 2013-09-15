@@ -25,15 +25,11 @@ Configuration
 
 
 First register at addthis_ and get the
-`most recent sharing code from the addthis homepage`_ ..
-
-
-.. _:https://www.addthis.com/get/sharing
+`most recent sharing code from the addthis homepage <https://www.addthis.com/get/sharing>`_
 
 
 
- Configuration options can be found in
-``portal_properties/raptus_article``::
+Configuration options can be found in ``portal_properties/raptus_article``:
 
 
 addthis_active
@@ -55,8 +51,8 @@ buttons for all document or none at all.
 zest.social is quite similar. however, it requires to uses z3c.jbot to use your
 own addthis account.
 
-In addition this package integrates nicely in portals
-using raptus.article (since it's a component)
+In addition this package integrates nicely in portals using raptus.article
+(since it's a component)
 
 
 
